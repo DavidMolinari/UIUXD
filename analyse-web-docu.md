@@ -8,7 +8,12 @@
 
 * Surface :
   - Couleurs froides : Sépia, sombres, lugubre => Pour évoquer l'ambiance d'une région de la Chine complètement dépassée par l'expansion economique et la pollution due à l'exploitation massives des mines de charbon.
+    ![](https://i.imgur.com/jxReyuK.png)
+  
   - Couleurs chaudes : Rouges lorsqu'on arrive dans le bureau du directeur de la mine => Le rouge évoque la richesse en Chine.
+  
+    ![](https://i.imgur.com/N6bpkd3.png)
+
   - Musique d'ambiance angoissante
   
 * Squelette :
@@ -35,7 +40,7 @@
     
 
 # Quelles experiences proposées aux users ?
-  L'expérience proposée aux utilisateurs est de les plonger dans la peau d'un journaliste à la découverte d'une région en Chine ravagée par sa croissance économique qui part enquêter  sur 
+  L'expérience **immersive** proposée aux utilisateurs est de les plonger dans la peau d'un journaliste à la découverte d'une région en Chine ravagée par sa croissance économique qui part enquêter  sur 
 les  conditions  de  travail  des  mineurs  chinois. 
   On se retrouve dans une relation de "dialogue"
   Le mot charbon à une connotation forte, le manque total de développement durable en chine est évident.
