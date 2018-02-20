@@ -63,3 +63,8 @@ Donald Norman appliqué à la com :
 * Stratégie :
   - Quoi retirer du site, les besoin des users
      
+
+
+
+
+!["SWOT"](https://d2myx53yhj7u4b.cloudfront.net/sites/default/files/ColorfulLeaves_SWOT_Analysis_PPT.jpg)
