@@ -15,3 +15,12 @@ L'observation d'une activité de tous les jours, qu'on décrit comme script de c
 
 Une fois le script identifié, on peut changer l'experience d'un moment
 
+> Les bons designs se créent grâce à une évolution constante ou itération : toute production doit bénéficier de l'experience des productions précédentes et tout rajout de fonctionnalité doit être testé auprès des usagers. Des méthodes dites Agile peuvent alors se coupler avec l'approche par le UX Design
+
+
+Donald Norman appliqué à la com : 
+
+* Habitudes d'information et de communication des cibles
+* L'activité à faire vivre
+* Itération
+
