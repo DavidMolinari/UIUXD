@@ -16,14 +16,23 @@
   - Vidéo => Lors d'un changement de lieux on peut remarquer la présene de vidéos évoquant le parallèle avec les jeux vidéos grâce aux cinématiques.
   - Images en mouvement : Déplacement du personnage
   - Le zoning en image :
-  !["Web documentaire Main"](https://i.imgur.com/nZeDmqR.png "Web documentaire background")
+  !["Web documentaire Main"](https://i.imgur.com/EnUL4Tp.png "Web documentaire background")
+  
 * Structure ( fonctionnalités ) :
-  -Mélange linéaire et mixte => à bifurcation  : 
-  > On suit l'investigation avec la possibilité de revenir à un lieu déjà visité.
+   - La structure est un mélange linéaire et mixte => à bifurcation  : 
+      > On suit l'investigation avec la possibilité de revenir à un lieu déjà visité sans en influencer la situation des travailleurs chinois.
+
   
 * Périmètre :
-   - Choix décisionnels influant sur l'histoire
-     > Voyage au travers d'une carte (chapitres)
+ - Choix de dialogues pouvant influer sur les déplacement et non sur l'enquête
+  ![""](blob:https://imgur.com/eb41276c-8286-4ea4-945a-1f3e03083744)
+  - Choix d'actions lors d'un dialogue
+  ![""](https://i.imgur.com/N7cSuOD.png)
+  - Choix des options
+  - Choix des déplacements sur la carte
+  ![](https://i.imgur.com/KFZ9poy.png)
+  - Choix de la taille de l'image
+    
 
 # Quelles experiences proposées aux users ?
   L'expérience proposée aux utilisateurs est de les plonger dans la peau d'un journaliste à la découverte d'une région en Chine ravagée par sa croissance économique qui part enquêter  sur 
