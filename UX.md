@@ -44,8 +44,22 @@ Donald Norman appliqué à la com :
 
 ![](http://www.qualitystreet.fr/wp-content/uploads/dc-2008/UX%20Garrett.JPG)
 
-* Surface : L'identité visuelle du site
+* **Surface** : L'identité visuelle du site
   - Logo, couleurs
-* Squelette : 
+* **Squelette** : 
   - Zoning ( Navigation / Contenu / Agir -forms etc-
+* **Structure** :
+  - Linéaire => OnePage 
+  - Arborescence =>  entrée unique 
+  - Parallèle => entrée unique mais possible de circuler horizontalement dans chaque niveau
+  - Raticulaire => ex Wikipedia
+  - Mixte => mix de structure arbo et parallele etc
+* **Scope** ( Parimètre ) :
+  - fonctionnalités :
+     - Site instutitionnel : avoir une info rapidement
+     - ludique : Gagner
+     - Site marchand : Acheter
 
+* Stratégie :
+  - Quoi retirer du site, les besoin des users
+     
