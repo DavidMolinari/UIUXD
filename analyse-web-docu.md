@@ -42,7 +42,5 @@
     
 
 # Quelles experiences proposées aux users ?
-  L'expérience **immersive** proposée aux utilisateurs est de les plonger dans la peau d'un journaliste à la découverte d'une région en Chine ravagée par sa croissance économique qui part enquêter  sur 
-les  conditions  de  travail  des  mineurs  chinois. 
-  On se retrouve dans une relation de "dialogue"
-  Le mot charbon à une connotation forte, le manque total de développement durable en chine est évident.
+ On se retroue avec une expérience d'enquête journalistique immersive proposée aux utilisateurs afin de les plonger dans la peau d'un journaliste à la découverte d'une région en Chine ravagée par sa croissance économique et les  conditions  de  travail  de ses travailleurs dans les mines.
+
