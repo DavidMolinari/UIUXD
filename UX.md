@@ -39,3 +39,13 @@ Donald Norman appliqué à la com :
   * CONTENT
   
   
+
+## UX design selon James Garett " The elements of user experience "
+
+![](http://www.qualitystreet.fr/wp-content/uploads/dc-2008/UX%20Garrett.JPG)
+
+* Surface : L'identité visuelle du site
+  - Logo, couleurs
+* Squelette : 
+  - Zoning ( Navigation / Contenu / Agir -forms etc-
+
