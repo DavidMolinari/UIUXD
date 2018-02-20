@@ -7,23 +7,23 @@
 
 
 * Surface :
-  - Couleurs Sépia, sombres
-  - Pas de logo
+  - Couleurs froides : Sépia, sombres, lugubre => Pour évoquer l'ambiance d'une région de la Chine complètement dépassée par l'expansion economique et la pollution due à l'exploitation massives des mines de charbon.
+  - Couleurs chaudes : Rouges lorsqu'on arrive dans le bureau du directeur de la mine => Le rouge évoque la richesse en Chine.
+  - Musique d'ambiance angoissante
+  
 * Squelette :
-  - Image de fond animée:format vidéo + musique d'ambiance 
-  - Menu d'action à droite
-  - Menu de navigation à gauche
-  !["Web documentaire Main"](https://i.imgur.com/z1iKMEm.png "Web documentaire background")
+  - Image Fixe : La présence des images fixes est le format qui apparait le plus souvent, lors de l'apport d'un contenu, d'une décision à prendre lors d'un dialogue
+  - Vidéo => Lors d'un changement de lieux on peut remarquer la présene de vidéos évoquant le parallèle avec les jeux vidéos grâce aux cinématiques.
+  - Images en mouvement : Déplacement du personnage
+  - Le zoning en image :
+  !["Web documentaire Main"](https://i.imgur.com/nZeDmqR.png "Web documentaire background")
 * Structure ( fonctionnalités ) :
-  - Mixte : Possibilité de revenir aux chapitres d'avant
+  -Mélange linéaire et mixte => à bifurcation  : 
+  > On suit l'investigation avec la possibilité de revenir à un lieu déjà visité.
   
 * Périmètre :
    - Choix décisionnels influant sur l'histoire
      > Voyage au travers d'une carte (chapitres)
-
-
-  - Intrigue :
-   >   Le web documentaire traite  de  la  dangerosité  des  mines  de  charbon en  Chine.
 
 # Quelles experiences proposées aux users ?
   L'expérience proposée aux utilisateurs est de les plonger dans la peau d'un journaliste à la découverte d'une région en Chine ravagée par sa croissance économique qui part enquêter  sur 
