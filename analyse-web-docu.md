@@ -22,7 +22,6 @@
      > Voyage au travers d'une carte (chapitres)
 
 
-
   - Intrigue :
    >   Le web documentaire traite  de  la  dangerosité  des  mines  de  charbon en  Chine.
 
@@ -30,3 +29,4 @@
   L'expérience proposée aux utilisateurs est de les plonger dans la peau d'un journaliste à la découverte d'une région en Chine ravagée par sa croissance économique qui part enquêter  sur 
 les  conditions  de  travail  des  mineurs  chinois. 
   On se retrouve dans une relation de "dialogue"
+  Le mot charbon à une connotation forte, le manque total de développement durable en chine est évident.
