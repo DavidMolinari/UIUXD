@@ -24,3 +24,18 @@ Donald Norman appliqué à la com :
 * L'activité à faire vivre
 * Itération
 
+![magnus revang](http://update.hanser-fachbuch.de/wp-content/uploads/2015/06/ux_wheel-Kopie.jpg "magnus revang")
+
+
+
+
+
+## UX DESIGN ET LE DIAGRAMME DE COREY STERN
+![](http://www.cubiux.com/images/cubi_ux_user_experience_model.jpg "Diagramme COrey Stern")
+## UX point de rencontre entre :
+  * USER GOALS 
+  * BUSINESS GOALS
+  * INTERACTION
+  * CONTENT
+  
+  
