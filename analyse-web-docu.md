@@ -26,6 +26,8 @@
 ## Structure :
    - La structure est un mélange linéaire et mixte => à bifurcation  : 
       > On suit l'investigation avec la possibilité de revenir à un lieu déjà visité sans en influencer la situation des travailleurs chinois.
+      
+      ++ redessiner la carte
 
   
 ## Périmètre ( fonctionnalités )  :
